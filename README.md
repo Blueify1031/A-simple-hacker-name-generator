@@ -2,7 +2,7 @@
 a simple hacker name generator that i made 
 ---------------------------------
 
-#Installation
+Installation
 ---------------------
-Open requirements.bat
+Open requirements.bat tehn its done 
 
